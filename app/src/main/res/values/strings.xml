@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Device INFO</string>
+
+    <string name="publisher_id"></string>
+
+    <string name="tab_title_cpu">CPU</string>
+    <string name="tab_title_device">DEVICE</string>
+    <string name="tab_title_system">SYSTEM</string>
+    <string name="tab_title_battery">BATTERY</string>
+    <string name="tab_title_sensor">SENSOR</string>
+    <string name="tab_title_about">ABOUT</string>
+
+</resources>
